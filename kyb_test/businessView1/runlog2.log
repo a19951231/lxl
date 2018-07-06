@@ -1,0 +1,308 @@
+2018-07-05 16:46:06,673 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-05 16:46:06,709 commmon_fun.py[line:10] INFO ======点击发现新版本框的取消按钮=====
+2018-07-05 16:46:09,826 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 16:46:10,736 commmon_fun.py[line:23] INFO swipeLeft
+2018-07-05 16:49:58,477 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-05 16:49:58,504 commmon_fun.py[line:10] INFO ======点击发现新版本框的取消按钮=====
+2018-07-05 16:50:00,167 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 16:50:01,198 commmon_fun.py[line:23] INFO swipeLeft
+2018-07-05 16:54:42,137 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-05 16:54:42,149 commmon_fun.py[line:10] INFO ======点击发现新版本框的取消按钮=====
+2018-07-05 16:54:44,532 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 16:54:45,004 commmon_fun.py[line:23] INFO swipeLeft
+2018-07-05 16:57:54,205 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-05 16:57:54,213 commmon_fun.py[line:10] INFO ======点击发现新版本框的取消按钮=====
+2018-07-05 16:57:56,473 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 16:57:56,956 commmon_fun.py[line:23] INFO swipeLeft
+2018-07-05 16:57:57,548 commmon_fun.py[line:14] INFO ======点击app的初始页面右上角的跳过按钮======
+2018-07-05 16:57:58,855 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:00:10,222 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-05 17:00:10,238 commmon_fun.py[line:10] INFO ======点击发现新版本框的取消按钮=====
+2018-07-05 17:00:12,990 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:00:13,421 commmon_fun.py[line:23] INFO swipeLeft
+2018-07-05 17:00:14,411 commmon_fun.py[line:14] INFO ======点击app的初始页面右上角的跳过按钮======
+2018-07-05 17:00:15,356 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:00:16,489 login1.py[line:19] INFO ====点击账号输入框====
+2018-07-05 17:00:16,490 login1.py[line:20] INFO username is:lxl666
+2018-07-05 17:00:22,237 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 17:00:27,193 login1.py[line:23] INFO password is:a19951231
+2018-07-05 17:00:27,721 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 17:00:32,754 login1.py[line:26] INFO click loginBtn
+2018-07-05 17:00:33,343 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:00:33,499 login1.py[line:28] INFO login finished!
+2018-07-05 17:00:33,499 login1.py[line:47] INFO ====check_loginStatus======
+2018-07-05 17:00:33,500 commmon_fun.py[line:45] INFO ====check_market_ad====
+2018-07-05 17:01:43,829 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-05 17:01:43,842 commmon_fun.py[line:10] INFO ======点击发现新版本框的取消按钮=====
+2018-07-05 17:01:47,284 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:01:47,739 commmon_fun.py[line:23] INFO swipeLeft
+2018-07-05 17:01:48,315 commmon_fun.py[line:14] INFO ======点击app的初始页面右上角的跳过按钮======
+2018-07-05 17:01:49,618 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:01:49,945 login1.py[line:19] INFO ====点击账号输入框====
+2018-07-05 17:01:49,946 login1.py[line:20] INFO username is:lxl6666
+2018-07-05 17:01:50,481 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 17:01:55,640 login1.py[line:23] INFO password is:a19951231
+2018-07-05 17:01:56,225 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 17:02:01,182 login1.py[line:26] INFO click loginBtn
+2018-07-05 17:02:01,716 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:02:01,916 login1.py[line:28] INFO login finished!
+2018-07-05 17:02:01,916 login1.py[line:47] INFO ====check_loginStatus======
+2018-07-05 17:02:01,916 commmon_fun.py[line:45] INFO ====check_market_ad====
+2018-07-05 17:07:08,923 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-05 17:07:08,940 commmon_fun.py[line:10] INFO ======点击发现新版本框的取消按钮=====
+2018-07-05 17:07:12,164 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:07:12,576 commmon_fun.py[line:23] INFO swipeLeft
+2018-07-05 17:07:13,145 commmon_fun.py[line:14] INFO ======点击app的初始页面右上角的跳过按钮======
+2018-07-05 17:07:14,461 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:07:14,826 login1.py[line:19] INFO ====点击账号输入框====
+2018-07-05 17:07:14,826 login1.py[line:20] INFO username is:lxl6666
+2018-07-05 17:07:15,363 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 17:07:20,382 login1.py[line:23] INFO password is:a19951231
+2018-07-05 17:07:20,913 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 17:07:25,870 login1.py[line:26] INFO click loginBtn
+2018-07-05 17:07:26,377 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:07:26,566 login1.py[line:28] INFO login finished!
+2018-07-05 17:07:26,566 login1.py[line:47] INFO ====check_loginStatus======
+2018-07-05 17:07:26,566 commmon_fun.py[line:45] INFO ====check_market_ad====
+2018-07-05 17:07:29,849 commmon_fun.py[line:51] INFO close market ad
+2018-07-05 17:07:32,260 login1.py[line:31] INFO =====check_account_alert====
+2018-07-05 17:07:57,800 baseView2.py[line:61] ERROR 错误原因为: Message: 
+
+2018-07-05 17:07:57,800 login1.py[line:37] INFO close tip_commit
+2018-07-05 17:20:02,115 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-05 17:20:02,141 commmon_fun.py[line:10] INFO ======点击发现新版本框的取消按钮=====
+2018-07-05 17:20:04,497 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:20:04,891 commmon_fun.py[line:23] INFO swipeLeft
+2018-07-05 17:20:05,451 commmon_fun.py[line:14] INFO ======点击app的初始页面右上角的跳过按钮======
+2018-07-05 17:20:06,808 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:20:07,163 login1.py[line:19] INFO ====点击账号输入框====
+2018-07-05 17:20:07,164 login1.py[line:20] INFO username is:lxl6666
+2018-07-05 17:20:07,696 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 17:20:12,686 login1.py[line:23] INFO password is:a19951231
+2018-07-05 17:20:13,247 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 17:20:18,115 login1.py[line:26] INFO click loginBtn
+2018-07-05 17:20:18,704 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:20:18,856 login1.py[line:28] INFO login finished!
+2018-07-05 17:20:18,856 login1.py[line:44] INFO ====check_loginStatus======
+2018-07-05 17:20:18,856 commmon_fun.py[line:45] INFO ====check_market_ad====
+2018-07-05 17:20:21,832 commmon_fun.py[line:51] INFO close market ad
+2018-07-05 17:20:24,987 login1.py[line:31] INFO =====check_account_alert====
+2018-07-05 17:20:50,926 baseView2.py[line:20] ERROR 错误原因为: Message: 
+
+2018-07-05 17:20:50,969 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:20:51,885 login1.py[line:57] INFO login success!
+2018-07-05 17:20:51,886 login1.py[line:38] INFO =====logout_action======
+2018-07-05 17:20:51,980 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:20:53,109 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:20:53,899 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:23:31,500 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-05 17:23:31,509 commmon_fun.py[line:10] INFO ======点击发现新版本框的取消按钮=====
+2018-07-05 17:23:35,075 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:23:35,521 commmon_fun.py[line:23] INFO swipeLeft
+2018-07-05 17:23:36,091 commmon_fun.py[line:14] INFO ======点击app的初始页面右上角的跳过按钮======
+2018-07-05 17:23:37,490 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:23:37,836 login1.py[line:19] INFO ====点击账号输入框====
+2018-07-05 17:23:37,836 login1.py[line:20] INFO username is:lxl6666
+2018-07-05 17:23:38,386 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 17:23:43,305 login1.py[line:23] INFO password is:a19951231
+2018-07-05 17:23:43,887 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 17:23:48,947 login1.py[line:26] INFO click loginBtn
+2018-07-05 17:23:49,536 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:23:49,685 login1.py[line:28] INFO login finished!
+2018-07-05 17:23:49,685 login1.py[line:47] INFO ====check_loginStatus======
+2018-07-05 17:23:49,685 commmon_fun.py[line:45] INFO ====check_market_ad====
+2018-07-05 17:23:53,157 commmon_fun.py[line:51] INFO close market ad
+2018-07-05 17:23:56,343 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:23:58,202 login1.py[line:31] INFO =====check_account_alert====
+2018-07-05 17:24:23,511 baseView2.py[line:61] ERROR 错误原因为: Message: 
+
+2018-07-05 17:24:23,511 login1.py[line:37] INFO close tip_commit
+2018-07-05 17:28:43,181 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-05 17:28:43,190 commmon_fun.py[line:10] INFO ======点击发现新版本框的取消按钮=====
+2018-07-05 17:28:45,681 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:28:46,094 commmon_fun.py[line:23] INFO swipeLeft
+2018-07-05 17:28:46,658 commmon_fun.py[line:14] INFO ======点击app的初始页面右上角的跳过按钮======
+2018-07-05 17:28:48,007 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:28:48,329 login1.py[line:19] INFO ====点击账号输入框====
+2018-07-05 17:28:48,329 login1.py[line:20] INFO username is:lxl6666
+2018-07-05 17:28:48,869 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 17:28:53,752 login1.py[line:23] INFO password is:a19951231
+2018-07-05 17:28:54,342 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 17:28:59,421 login1.py[line:26] INFO click loginBtn
+2018-07-05 17:28:59,935 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:29:00,089 login1.py[line:28] INFO login finished!
+2018-07-05 17:29:00,089 login1.py[line:47] INFO ====check_loginStatus======
+2018-07-05 17:29:00,089 commmon_fun.py[line:45] INFO ====check_market_ad====
+2018-07-05 17:29:03,300 commmon_fun.py[line:51] INFO close market ad
+2018-07-05 17:29:06,468 login1.py[line:31] INFO =====check_account_alert====
+2018-07-05 17:29:32,667 baseView2.py[line:20] ERROR 错误原因为: Message: 
+
+2018-07-05 17:29:32,667 login1.py[line:37] INFO close tip_commit
+2018-07-05 17:30:56,518 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-05 17:30:56,525 commmon_fun.py[line:10] INFO ======点击发现新版本框的取消按钮=====
+2018-07-05 17:30:59,235 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:30:59,621 commmon_fun.py[line:23] INFO swipeLeft
+2018-07-05 17:31:00,184 commmon_fun.py[line:14] INFO ======点击app的初始页面右上角的跳过按钮======
+2018-07-05 17:31:01,505 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:31:01,835 login1.py[line:19] INFO ====点击账号输入框====
+2018-07-05 17:31:01,835 login1.py[line:20] INFO username is:lxl6666
+2018-07-05 17:31:02,379 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 17:31:07,361 login1.py[line:23] INFO password is:a19951231
+2018-07-05 17:31:07,905 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 17:31:13,012 login1.py[line:26] INFO click loginBtn
+2018-07-05 17:31:13,541 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:31:13,687 login1.py[line:28] INFO login finished!
+2018-07-05 17:31:13,687 login1.py[line:44] INFO ====check_loginStatus======
+2018-07-05 17:31:13,688 commmon_fun.py[line:45] INFO ====check_market_ad====
+2018-07-05 17:31:17,284 commmon_fun.py[line:51] INFO close market ad
+2018-07-05 17:31:20,472 login1.py[line:31] INFO =====check_account_alert====
+2018-07-05 17:31:45,689 baseView2.py[line:61] ERROR 错误原因为: Message: 
+
+2018-07-05 17:31:45,733 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:31:46,580 login1.py[line:57] INFO login success!
+2018-07-05 17:31:46,580 login1.py[line:38] INFO =====logout_action======
+2018-07-05 17:31:46,657 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:31:47,686 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 17:31:48,479 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 18:17:50,539 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-05 18:17:50,546 commmon_fun.py[line:10] INFO ======点击发现新版本框的取消按钮=====
+2018-07-05 18:18:16,041 baseView2.py[line:20] ERROR 错误原因为: Message: 
+
+2018-07-05 18:18:16,041 commmon_fun.py[line:23] INFO swipeLeft
+2018-07-05 18:18:16,906 commmon_fun.py[line:14] INFO ======点击app的初始页面右上角的跳过按钮======
+2018-07-05 18:18:41,670 baseView2.py[line:20] ERROR 错误原因为: Message: An unknown server-side error occurred while processing the command. Original error: Android bootstrap socket crashed: Error: This socket has been ended by the other party
+
+2018-07-05 18:18:41,671 login1.py[line:19] INFO ====点击账号输入框====
+2018-07-05 18:18:41,671 login1.py[line:20] INFO username is:lxl6666
+2018-07-05 18:18:41,677 baseView2.py[line:30] ERROR 错误原因为: Message: A session is either terminated or not started
+
+2018-07-05 18:18:41,678 login1.py[line:23] INFO password is:a19951231
+2018-07-05 18:18:41,684 baseView2.py[line:30] ERROR 错误原因为: Message: A session is either terminated or not started
+
+2018-07-05 18:18:41,684 login1.py[line:26] INFO click loginBtn
+2018-07-05 18:18:41,690 baseView2.py[line:20] ERROR 错误原因为: Message: A session is either terminated or not started
+
+2018-07-05 18:18:41,690 login1.py[line:28] INFO login finished!
+2018-07-05 18:18:41,691 login1.py[line:44] INFO ======检查登录状态======
+2018-07-05 18:18:41,691 commmon_fun.py[line:45] INFO ====check_market_ad====
+2018-07-05 18:18:41,697 baseView2.py[line:61] ERROR 错误原因为: Message: A session is either terminated or not started
+
+2018-07-05 18:18:41,697 commmon_fun.py[line:51] INFO close market ad
+2018-07-05 18:18:46,837 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-05 18:18:46,845 commmon_fun.py[line:10] INFO ======点击发现新版本框的取消按钮=====
+2018-07-05 18:19:12,058 baseView2.py[line:20] ERROR 错误原因为: Message: 
+
+2018-07-05 18:19:12,058 commmon_fun.py[line:23] INFO swipeLeft
+2018-07-05 18:19:12,670 commmon_fun.py[line:14] INFO ======点击app的初始页面右上角的跳过按钮======
+2018-07-05 18:19:14,109 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 18:19:14,489 login1.py[line:19] INFO ====点击账号输入框====
+2018-07-05 18:19:14,489 login1.py[line:20] INFO username is:lxl6666
+2018-07-05 18:19:15,112 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 18:19:19,977 login1.py[line:23] INFO password is:a19951231
+2018-07-05 18:19:20,517 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 18:19:25,426 login1.py[line:26] INFO click loginBtn
+2018-07-05 18:19:25,937 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 18:19:26,102 login1.py[line:28] INFO login finished!
+2018-07-05 18:19:26,103 login1.py[line:44] INFO ======检查登录状态======
+2018-07-05 18:19:26,103 commmon_fun.py[line:45] INFO ====check_market_ad====
+2018-07-05 18:19:51,423 baseView2.py[line:61] ERROR 错误原因为: Message: 
+
+2018-07-05 18:19:51,423 commmon_fun.py[line:51] INFO close market ad
+2018-07-05 18:20:48,889 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-05 18:20:48,894 commmon_fun.py[line:10] INFO ======点击发现新版本框的取消按钮=====
+2018-07-05 18:21:14,432 baseView2.py[line:20] ERROR 错误原因为: Message: 
+
+2018-07-05 18:21:14,432 commmon_fun.py[line:23] INFO swipeLeft
+2018-07-05 18:21:15,019 commmon_fun.py[line:14] INFO ======点击app的初始页面右上角的跳过按钮======
+2018-07-05 18:21:16,374 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 18:21:16,819 login1.py[line:19] INFO ====点击账号输入框====
+2018-07-05 18:21:16,819 login1.py[line:20] INFO username is:lxl6666
+2018-07-05 18:21:17,436 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 18:21:23,066 login1.py[line:23] INFO password is:a19951231
+2018-07-05 18:21:23,655 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 18:21:28,680 login1.py[line:26] INFO click loginBtn
+2018-07-05 18:21:29,253 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 18:21:29,387 login1.py[line:28] INFO login finished!
+2018-07-05 18:21:29,387 login1.py[line:44] INFO ======检查登录状态======
+2018-07-05 18:21:29,388 commmon_fun.py[line:45] INFO ====check_market_ad====
+2018-07-05 18:21:54,684 baseView2.py[line:61] ERROR 错误原因为: Message: 
+
+2018-07-05 18:21:54,684 commmon_fun.py[line:51] INFO close market ad
+2018-07-05 18:23:35,920 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-05 18:23:35,926 commmon_fun.py[line:10] INFO ======点击发现新版本框的取消按钮=====
+2018-07-05 18:23:38,377 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 18:23:38,863 commmon_fun.py[line:23] INFO swipeLeft
+2018-07-05 18:23:39,441 commmon_fun.py[line:14] INFO ======点击app的初始页面右上角的跳过按钮======
+2018-07-05 18:23:40,737 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 18:23:41,074 login1.py[line:19] INFO ====点击账号输入框====
+2018-07-05 18:23:41,074 login1.py[line:20] INFO username is:lxl6666
+2018-07-05 18:23:41,621 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 18:23:46,524 login1.py[line:23] INFO password is:a19951231
+2018-07-05 18:23:47,015 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 18:23:52,171 login1.py[line:26] INFO click loginBtn
+2018-07-05 18:23:52,738 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 18:23:52,875 login1.py[line:28] INFO login finished!
+2018-07-05 18:23:52,876 login1.py[line:44] INFO ======检查登录状态======
+2018-07-05 18:23:52,876 commmon_fun.py[line:45] INFO ====check_market_ad====
+2018-07-05 18:23:55,879 commmon_fun.py[line:51] INFO close market ad
+2018-07-05 18:23:59,023 login1.py[line:31] INFO =====^*^检查弹框的确定元素是否存在^*^=====
+2018-07-05 18:24:24,842 baseView2.py[line:61] ERROR 错误原因为: Message: 
+
+2018-07-05 18:24:24,892 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 18:24:25,734 login1.py[line:57] INFO =====^*^登录成功^*^=====
+2018-07-05 18:24:25,734 login1.py[line:38] INFO =====^*^进行退出app的操作^*^=====
+2018-07-05 18:24:25,823 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 18:24:27,554 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 18:24:28,413 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 21:44:45,360 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-05 21:44:45,376 commmon_fun.py[line:10] INFO ======点击发现新版本框的取消按钮=====
+2018-07-05 21:44:47,614 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 21:44:48,707 commmon_fun.py[line:23] INFO swipeLeft
+2018-07-05 21:44:49,340 commmon_fun.py[line:14] INFO ======点击app的初始页面右上角的跳过按钮======
+2018-07-05 21:44:50,653 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 21:44:51,017 login1.py[line:23] INFO ====点击账号输入框====
+2018-07-05 21:44:51,018 login1.py[line:24] INFO username is:lxl6666
+2018-07-05 21:44:51,560 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 21:44:56,502 login1.py[line:27] INFO password is:a19951231
+2018-07-05 21:44:57,112 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 21:45:02,020 login1.py[line:30] INFO click loginBtn
+2018-07-05 21:45:02,528 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 21:45:02,732 login1.py[line:32] INFO login finished!
+2018-07-05 21:45:02,732 login1.py[line:48] INFO ======检查登录状态======
+2018-07-05 21:45:02,733 commmon_fun.py[line:45] INFO ====check_market_ad====
+2018-07-05 21:45:05,578 commmon_fun.py[line:51] INFO close market ad
+2018-07-05 21:45:08,345 login1.py[line:35] INFO =====^*^检查弹框的确定元素是否存在^*^=====
+2018-07-05 21:45:28,731 baseView2.py[line:61] ERROR 错误原因为: Message: 
+
+2018-07-05 21:45:28,809 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 21:45:29,732 login1.py[line:61] INFO =====^*^登录成功^*^=====
+2018-07-05 21:45:29,733 login1.py[line:42] INFO =====^*^进行退出app的操作^*^=====
+2018-07-05 21:45:29,803 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 21:45:30,902 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 21:45:31,700 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 21:53:54,774 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-05 21:53:54,783 commmon_fun.py[line:10] INFO ======点击发现新版本框的取消按钮=====
+2018-07-05 21:54:03,191 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 21:54:04,222 commmon_fun.py[line:23] INFO swipeLeft
+2018-07-05 21:54:04,793 commmon_fun.py[line:14] INFO ======点击app的初始页面右上角的跳过按钮======
+2018-07-05 21:54:06,173 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 21:54:06,518 login1.py[line:23] INFO ====点击账号输入框====
+2018-07-05 21:54:06,519 login1.py[line:24] INFO username is:lxl6666
+2018-07-05 21:54:07,058 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 21:54:12,067 login1.py[line:27] INFO password is:a19951231
+2018-07-05 21:54:12,616 baseView2.py[line:32] INFO ====操作成功====
+2018-07-05 21:54:17,590 login1.py[line:30] INFO click loginBtn
+2018-07-05 21:54:18,183 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 21:54:18,330 login1.py[line:32] INFO login finished!
+2018-07-05 21:54:18,330 login1.py[line:48] INFO ======检查登录状态======
+2018-07-05 21:54:18,330 commmon_fun.py[line:45] INFO ====check_market_ad====
+2018-07-05 21:54:21,897 commmon_fun.py[line:51] INFO close market ad
+2018-07-05 21:54:25,041 login1.py[line:35] INFO =====^*^检查弹框的确定元素是否存在^*^=====
+2018-07-05 21:54:45,584 baseView2.py[line:61] ERROR 错误原因为: Message: 
+
+2018-07-05 21:54:45,642 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 21:54:46,489 login1.py[line:61] INFO =====^*^登录成功^*^=====
+2018-07-05 21:54:46,489 login1.py[line:42] INFO =====^*^进行退出app的操作^*^=====
+2018-07-05 21:54:46,576 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 21:54:47,569 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 21:54:48,355 baseView2.py[line:22] INFO ====操作成功====

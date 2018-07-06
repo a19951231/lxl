@@ -1,0 +1,62 @@
+platformName: Android
+#真机
+deviceName: Y15QFBP724GL6
+platformVersion: 5.1
+
+automationName: uiautomator2
+
+appPackage: com.tal.kaoyan
+appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+
+appname: kaoyan3.1.0.apk
+unicodeKeyboard: True
+resetKeyboard: True
+noReset1: False
+noReset2: True
+ip: 127.0.0.1
+port: 4723
+ts:
+  ts1: ======启动考研帮app3.1.0版本======
+  ts2: ======点击发现新版本框的取消按钮=====
+  ts3: ======点击app的初始页面右上角的跳过按钮======
+  ts4: ====操作成功====
+  ts5: ====点击账号输入框====
+  ts6: =====^*^检查弹框的确定元素是否存在^*^=====
+  ts7: =====^*^进行退出app的操作^*^=====
+  ts8: =====^*^登录成功^*^=====
+  ts9: ======登录失败截图======
+  ts10: ======检查登录状态======
+
+ys:
+   - ys1: android:id/button2
+     id: id
+   - ys2: com.tal.kaoyan:id/tv_skip
+     id: id
+   - zhh: com.tal.kaoyan:id/login_email_edittext
+     id: id
+   - mm: com.tal.kaoyan:id/login_password_edittext
+     id: id
+   - dlann: com.tal.kaoyan:id/login_login_btn
+     id: id
+   - chaann: com.tal.kaoyan:id/view_wemedia_cacel
+     id: id
+   - qdann: com.tal.kaoyan:id/tip_commit
+     id: id
+   - qdann1: com.tal.kaoyan:id/tip_commit
+     id: id
+   - woann: com.tal.kaoyan:id/mainactivity_button_mysefl
+     id: id
+   - username: com.tal.kaoyan:id/activity_usercenter_username
+     id: id
+   - RightButton: com.tal.kaoyan:id/myapptitle_RightButton_textview
+     id: id
+   - logoutBtn: com.tal.kaoyan:id/setting_logout_text
+     id: id
+
+
+username: lxl666
+password: a19951231
+username1: lxl6666
+password1: a19951231
+username2: lxl333
+password2: a19951231

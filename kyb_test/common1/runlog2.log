@@ -1,0 +1,38 @@
+2018-07-03 21:28:52,005 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-03 21:36:17,457 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-03 21:36:17,472 commmon_fun.py[line:9] INFO ======点击发现新版本框的取消按钮=====
+2018-07-03 21:39:30,035 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-03 21:39:30,045 commmon_fun.py[line:9] INFO ======点击发现新版本框的取消按钮=====
+2018-07-03 21:39:44,481 commmon_fun.py[line:12] INFO ====操作成功====
+2018-07-03 21:39:44,481 commmon_fun.py[line:25] INFO swipeLeft
+2018-07-03 21:39:45,326 commmon_fun.py[line:40] INFO get 滑动页面截图 screenshot
+2018-07-03 21:41:25,893 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-03 21:41:25,904 commmon_fun.py[line:9] INFO ======点击发现新版本框的取消按钮=====
+2018-07-03 21:41:29,623 commmon_fun.py[line:12] INFO ====操作成功====
+2018-07-03 21:41:29,624 commmon_fun.py[line:25] INFO swipeLeft
+2018-07-03 21:41:30,210 commmon_fun.py[line:40] INFO get 滑动页面截图 screenshot
+2018-07-03 21:42:22,083 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-03 21:42:22,095 commmon_fun.py[line:9] INFO ======点击发现新版本框的取消按钮=====
+2018-07-03 21:42:25,583 commmon_fun.py[line:12] INFO ====操作成功====
+2018-07-03 21:42:25,584 commmon_fun.py[line:25] INFO swipeLeft
+2018-07-03 21:42:26,182 commmon_fun.py[line:40] INFO get 滑动页面截图 screenshot
+2018-07-03 21:42:27,656 commmon_fun.py[line:15] INFO ======点击app的初始页面右上角的跳过按钮======
+2018-07-03 21:42:28,121 commmon_fun.py[line:17] INFO ====操作成功====
+2018-07-03 21:45:15,428 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-03 21:45:15,436 commmon_fun.py[line:9] INFO ======点击发现新版本框的取消按钮=====
+2018-07-03 21:45:21,001 baseView2.py[line:22] INFO ====操作成功====
+2018-07-03 21:45:21,484 commmon_fun.py[line:22] INFO swipeLeft
+2018-07-03 21:45:22,039 commmon_fun.py[line:37] INFO get 滑动页面截图 screenshot
+2018-07-03 21:45:23,655 commmon_fun.py[line:13] INFO ======点击app的初始页面右上角的跳过按钮======
+2018-07-03 21:45:23,691 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 16:52:12,239 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-05 16:52:12,260 commmon_fun.py[line:10] INFO ======点击发现新版本框的取消按钮=====
+2018-07-05 16:52:14,592 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 16:52:15,031 commmon_fun.py[line:23] INFO swipeLeft
+2018-07-05 16:56:34,428 desired_caps1.py[line:29] INFO ======启动考研帮app3.1.0版本======
+2018-07-05 16:56:34,442 commmon_fun.py[line:10] INFO ======点击发现新版本框的取消按钮=====
+2018-07-05 16:56:36,895 baseView2.py[line:22] INFO ====操作成功====
+2018-07-05 16:56:37,852 commmon_fun.py[line:23] INFO swipeLeft
+2018-07-05 16:56:38,491 commmon_fun.py[line:39] INFO get 滑动页面截图 screenshot
+2018-07-05 16:56:40,938 commmon_fun.py[line:14] INFO ======点击app的初始页面右上角的跳过按钮======
+2018-07-05 16:56:40,975 baseView2.py[line:22] INFO ====操作成功====
